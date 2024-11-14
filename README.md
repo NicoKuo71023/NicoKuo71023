@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
+I'm Nico, a passionate Biomedical Scientist and Data Analyst from Taiwan. With a strong foundation in biomedical research and a focus on data science, I aim to leverage interdisciplinary skills to create impactful solutions in both the biomedical and technology fields.
 
-<!--
-**NicoKuo71023/NicoKuo71023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
 
-Here are some ideas to get you started:
+### Programming and Data Science
+- **Programming Languages**: Python, R, Matlab
+- **Data Analysis**: Pandas, Numpy, Scikit-learn, PyTorch
+- **Data Visualization**: Matplotlib, Seaborn
+- **Web Scraping**: Selenium, Requests, BeautifulSoup
+- **Databases**: MySQL, Elasticsearch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Development
+- **Front-End**: HTML, CSS, JavaScript, Bootstrap, Vue.js
+- **Back-End**: Flask (Python)
+
+### System Administration and Big Data
+- **Operating System**: Linux (Ubuntu)
+- **Containerization**: Docker, Kubernetes
+- **Big Data**: Hadoop, Spark, Apache Iceberg
+
+## 📫 Get in Touch
+- Email: nico2033210332@gmail.com
