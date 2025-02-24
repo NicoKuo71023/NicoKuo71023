@@ -4,7 +4,7 @@ I'm Nico, a passionate Biomedical Scientist and Data Analyst from Taiwan. With a
 ## 🛠️ Skills
 
 ### Programming and Data Science
-- **Programming Languages**: Python, R, Matlab
+- **Programming Languages**: Python, R
 - **Data Analysis**: Pandas, Numpy, Scikit-learn, PyTorch
 - **Data Visualization**: Matplotlib, Seaborn
 - **Web Scraping**: Selenium, Requests, BeautifulSoup
