@@ -1,7 +1,7 @@
 # Hi there! 👋  
 I'm Nico, a Bioinformatics PhD student at George Mason University with a background in biomedical research and data science.  
 
-I focus on applying machine learning and computational methods to solve problems in clinical research, disease modeling, and drug development. Recently, I’ve been working on **AccelP3**, a platform aimed at accelerating Phase 3 clinical trials using early-stage data and real-world evidence.
+I focus on applying machine learning and computational methods to solve problems in clinical research, disease modeling, and drug development. Recently, I’ve been working on a platform aimed at accelerating Phase 3 clinical trials using early-stage data and real-world evidence.
 
 ---
 
